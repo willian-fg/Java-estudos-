@@ -1,0 +1,39 @@
+              Operadores Aritimeticos
+
++ (Adição) Em textos realizarar a concatenação de textos
+- (subtração)
+* (mutiplicação)
+/ (divisao)
+ 
+
+            Operadores de Atribuição
+
+= (Atribuição)
+
+            Operadores Unarios
+
+(+) valor positivo
+(-) negação; nega um numero ou expressão numerica
+(++) emcremento de valor; encrementa o valor em uma unidade
+(--) decremento de valor; decrementa o valor em uma unidade
+(!) negação logica.
+
+            Operadores Ternaria
+(?) if 
+(:) else
+
+            Operadores relacionais
+
+(==) Igualdade
+(!=) Diferente 
+(>) maior que
+(<) menor que
+(<=) menor ou Igual 
+(>=) maior ou Igual
+
+            Operadores logicos
+
+(&&) E
+(||) 
+
+
